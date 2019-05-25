@@ -1,0 +1,373 @@
+Package: co.dynastic.tsssaver
+Name: TSS Saver
+Architecture: iphoneos-arm
+Description: A one-click tool to save blobs using TSSsaver.1conan.com
+Depiction: https://repo.nullpixel.uk/depiction/co.dynastic.tsssaver/
+Maintainer: Jamie Bishop <jamie@dynastic.co>
+Author: Jamie Bishop <jamie@dynastic.co>
+Section: Utilities
+Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
+Version: 1.2.0
+Installed-Size: 444
+Filename: debs/co.dynastic.tsssaver_1.2.0_iphoneos-arm.deb
+Size: 152032
+MD5sum: fe2e43efaa390e4b81f100175ad1cddb
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.creaturecoding.bubbles
+Name: bubbles
+Depends: firmware (>= 10.0), com.ex.libsubstitute | mobilesubstrate, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker
+Conflicts: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Replaces: com.reedhaffner.nomoreappbar, com.cydiageek.barinprogress
+Priority: optional
+Architecture: iphoneos-arm
+Description: Make your Messages pop!
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Author: CreatureSurvive <support@creaturecoding.com>
+Section: Tweaks
+dev: CreatureSurvive
+Homepage: https://creaturecoding.com/
+Depiction: https://creaturecoding.com/?page=depiction&id=bubbles
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=bubbles
+Tag: purpose::extension, compatible_min::iosiOS10
+Version: 0.5.0
+Installed-Size: 736
+Filename: debs/com.creaturecoding.bubbles_0.5.0_iphoneos-arm.deb
+Size: 113976
+MD5sum: f1e4b41033f883d365a14cf3bf518423
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.exile90.icleanerpro
+Name: iCleaner Pro
+Description: The first real iOS system cleaner & optimizer
+Author: Ivano Bilenchi <support@ib-soft.net>
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Version: 7.7.0
+Architecture: iphoneos-arm
+Homepage: http://ib-soft.net/icleaner
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Section: Utilities
+Depends: firmware (>= 4.0), apt7, findutils, shell-cmds
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Icon: file:///Applications/iCleaner.app/Icon.png
+Filename: debs/com.exile90.icleanerpro_7.7.0_iphoneos-arm.deb
+Size: 4625528
+MD5sum: 717f23162f6c1e755b2eb9dfe3c848f5
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Name: CallBlocker
+Package: com.imkpatil.callblocker
+Priority: optional
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Block annoying Callers!
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callblockerDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=callblockerDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Kiran Patil <patilkiran08@gmail.com>
+Section: Tweaks
+Tag: purpose::extension, compatible::ios11
+Installed-Size: 196
+dev: imkpatil
+Icon: file:///Library/Application%20Support/CallBlocker/icon.png
+Filename: debs/com.imkpatil.callblocker_1.1_iphoneos-arm.deb
+Size: 24412
+MD5sum: 76fe67bce21054bd32a67673f43d2b8e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.iphonecake.AppCake6
+Name: AppCake
+Version: 6.1.3
+Architecture: iphoneos-arm
+Description: The new AppCake 6! For iOS 11 & 12 Jailbreak.
+Depiction: https://www.iphonecake.com/mobileapp/appcake6/
+SileoDepiction: https://www.iphonecake.com/mobileapp/appcake6/sileo/appcake.json
+Author: hotsjf 
+Section: Utilities
+Pre-Depends: firmware (>= 9.0)
+Depends: appsync
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Maintainer: AppCake
+
+Filename: debs/com.iphonecake.appcake6_6.1.3_iphoneos-arm.deb
+Size: 20773900
+MD5sum: c2d7efea9ed685db90703f1529295273
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.itaysoft.icaughtuxii
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader, firmware (>= 11.0), com.rpetrich.rocketbootstrap
+Conflicts: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Replaces: com.itaysoft.icaughtu, com.itaysoft.icaughtupro, com.itaysoft.icaughtupro8, com.itaysoft.icaughtupro9, com.itaysoft.icaughtupro10
+Name: iCaughtU 12
+Version: 1.2.0
+Architecture: iphoneos-arm
+Description: The most complete tweak to enhance the security of your Device
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro12Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=icaughtupro12Dp
+Installed-Size: 1222
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Author: Itay <support@itaysoft.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+Section: Tweaks
+dev: itay
+Tag: cydia::commercial, purpose::extension, compatible::ios11, compatible::ios12
+Icon: file:///Library/PreferenceBundles/iCaughtUXII.bundle/iCaughtU_12@2x.png
+Filename: debs/com.itaysoft.icaughtuxii_1.2.0_iphoneos-arm.deb
+Size: 431198
+MD5sum: a057dd28571b0e37d9473966bf20e85c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Author: Waz <m.wazowski.00@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: iWep PRO 8
+Package: com.iwazowski.iweppro5
+Depends: firmware (>= 5.0)
+Section: Networking
+Installed-Size: 2012
+Version: 8.8.5-368
+Architecture: iphoneos-arm
+Description: First iOS WiFi Auditor Application
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iweppro5Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iweppro5Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: wazowski
+Icon: file:///Applications/iweppro5.app/iWepPROIcon_57px.png
+Tag: purpose::uikit, role::enduser, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Filename: debs/com.iwazowski.iweppro5_8.8.5-368_iphoneos-arm.deb
+Size: 442288
+MD5sum: acfd5af02cf7cee5689b7f87e03414b6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Author: Jake James <jakeashacks@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: CatchaThief
+Package: com.jakeashacks.catchathief
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Section: Tweaks
+Installed-Size: 129
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Take a picture of whoever inputs an incorrect passcode!
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=catchathiefDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=catchathiefDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: jakeashacks
+Tag: purpose::extension, compatible::ios11
+Filename: debs/com.jakeashacks.catchathief_1.0.0_iphoneos-arm.deb
+Size: 12184
+MD5sum: af487ef9ff58fef9c14422136d754ff6
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: ga.jakeashacks.substitutedummy
+Name: Substitute Dummy for unc0ver
+Version: 1.0
+Architecture: iphoneos-arm
+Provides: org.coolstar.tweakinject, com.ex.libsubstitute
+Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
+Description: Add Substrate support to Substitute tweaks! And by that I mean, tweaks made by coolstar!
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Tweaks
+Filename: debs/com.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
+Size: 6294
+MD5sum: 954adf6afaefbeec2130b76d7d8950f0
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Author: John Coates <john@johncoates.me>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Flex 3
+Package: com.johncoates.Flex3
+Depends: mobilesubstrate, firmware (>= 9.0), com.rpetrich.rocketbootstrap
+Recommended: com.modmyi.libswift4 (>= 4.0.3)
+Conflicts: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Replaces: Flexpackage, Flexpackagebeta, com.fuyuchi.flex, Flex2packagebeta, Flex2package,  com.fuyuchi.flex2, Flex2Blackpackagebeta, Flex3, Flex3beta, flex3featurecatalog
+Section: Tweaks
+Installed-Size: 57210
+Version: 3~EarlyAccess4
+Architecture: iphoneos-arm
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flex3Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: acapulco1988
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Icon: file:///Applications/Flex.app/AppIcon29x29@2x.png
+Filename: debs/com.johncoates.flex3_3~EarlyAccess4_iphoneos-arm.deb
+Size: 12480092
+MD5sum: 100aa80ca81f53bf20251f2aac724f7a
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.julioverne.cracktool3
+Name: CrackTool3 (iOS 11)
+Author: julioverne
+Version: 3.0~beta11
+Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Architecture: iphoneos-arm
+Description: Crack Tweaks On 1 Touch. arm64. Any Issue Try Reinstall and/or Run CT3 In Safe Mode.
+Homepage: http://twitter.com/ijulioverne
+Maintainer: Julio
+Section: Utilities
+Filename: debs/com.julioverne.cracktool3_3.0_beta11_iphoneos-arm.deb
+Size: 165344
+MD5sum: 454aebaeb99805d2419c1a6672c75b17
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.julioverne.cydown
+Name: CyDown
+Author: julioverne <julioverne@me.com>
+Version: 6.9.7
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Cydia Download Manager & Extra Features!
+Homepage: http://twitter.com/ijulioverne
+Depiction: http://julio.xarold.com/files-deb/cydown.html
+Maintainer: Julio
+Section: Tweaks
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Filename: debs/com.julioverne.cydown_6.9.7_iphoneos-arm.deb
+Size: 1085390
+MD5sum: 7e923c276b894da812f3e775df72ffb7
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.matchstic.reprovision
+Name: ReProvision
+Version: 0.3
+Description: Re-sign applications on your device
+Section: System
+Depends: firmware (>= 9.0)
+Priority: optional
+Replaces: com.matchstic.Extender-Installer
+Provides: com.matchstic.Extender-Installer
+Architecture: iphoneos-arm
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Maintainer: Matt Clarke <matt@incendo.ws>
+Homepage: https://github.com/Matchstic/Extender-Installer
+Depiction: http://incendo.ws/repo/depictions/com.matchstic.reprovision.html
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Filename: debs/com.matchstic.reprovision_0.3_iphoneos-arm.deb
+Size: 6600640
+MD5sum: 596c645f2d786cdf8d188e7228895767
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: mterminal
+Priority: standard
+Section: Utilities
+Installed-Size: 776
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Architecture: iphoneos-arm
+Version: 1.4-6
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Description: A MobileTerminal fork
+Name: MTerminal
+Author: lordscotland <admin@officialscheduler.com>
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Filename: debs/com.mterminal_1.4-6_iphoneos-arm.deb
+Size: 108042
+MD5sum: dedfc589450b43d268bfc369d5b2f4c8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: ws.hbang.newterm2
+Name: NewTerm 2 (iOS 7 – 12)
+Depends: firmware (>= 7.0), com.modmyi.libswift4 (>= 4.2.1-1), ws.hbang.common (>= 1.11.2), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm
+Replaces: ws.hbang.newterm
+Architecture: iphoneos-arm
+Description: A powerful terminal app for iOS
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Author: HASHBANG Productions <support@hbang.ws>
+Section: Terminal Support
+Icon: https://repo.chariz.io/package/ws.hbang.newterm2/icon@3x.png
+Depiction: https://repo.chariz.io/package/ws.hbang.newterm2/
+Support: https://hbang.ws/support/
+Sponsor: thebigboss.org <http://thebigboss.org>
+Tag: compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+dev: hbang
+Version: 2.1
+Installed-Size: 2200
+Filename: debs/com.newterm2_2.1_iphoneos-arm.deb
+Size: 746092
+MD5sum: 05e23fb7e8d8762853eeb9c7f3c1b5b8
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: com.nrkvv.wifiscanner
+Name: WiFiScanner
+Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
+Architecture: iphoneos-arm
+Description: WiFi Scanner
+Maintainer: m156@nrkvv
+Author: m156@nrkvv
+Section: Utilities
+Tag: compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Homepage: http://twitter.com/m156nrkvv
+Icon: file:///Applications/WiFiScanner.app/AppIcon-60@2x.png
+Version: 0.0.6
+Installed-Size: 1740
+Filename: debs/com.nrkvv.wifiscanner_0.0.6_iphoneos-arm.deb
+Size: 259880
+MD5sum: 85b878adf7d4bfb68434c5f5c74d26c4
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Package: net.angelxwind.airspeaker
+Name: AirSpeaker
+Description: Use your iOS device as an AirPlay speaker!
+Section: Utilities
+Depends: preferenceloader, net.angelxwind.karenprefs (>= 1.3)
+Conflicts: 
+Replaces: 
+Architecture: iphoneos-arm
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.airspeaker
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.airspeaker.png
+Version: 1.4.3
+Installed-Size: 5704
+Filename: debs/net.angelxwind.airspeaker_1.4.3_iphoneos-arm.deb
+Size: 3113964
+MD5sum: af659b1b02085ad04eb1dbacc4e0219c
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 11.4.1)
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Homepage: https://cydia.angelxwind.net/
+Provides: appsync
+Replaces: us.hackulo.appsync50
+Package: net.angelxwind.appsyncunified
+Name: AppSync Unified
+Architecture: iphoneos-arm
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Section: Tweaks
+Author: Linus Yang, Karen/あけみ <karen@angelxwind.net>
+Version: 31.1
+Installed-Size: 256
+Filename: debs/net.angelxwind.appsyncunified_31.1_iphoneos-arm(1).deb
+Size: 30362
+MD5sum: 3d066c0024bacf35a705da8907a11e1a
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+
